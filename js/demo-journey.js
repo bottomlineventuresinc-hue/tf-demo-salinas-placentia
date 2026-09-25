@@ -1,4 +1,4 @@
-/* Template Factory - Salinas Electric live demo journey.
+/* Template Factory - Jose Oscar Salinas Jr live demo journey.
    Client-side simulate only. No real AI, SMS, or backend. */
 (function () {
   'use strict';
@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical, panel work, and wiring across Placentia and North Orange County. You get a fixed itemised quote before we start, Jose as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Residential electrical and electrical signs. Across Placentia and Orange County. Jose looks at the job first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Panel work and wiring,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Home electrical and signs,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Residential electrical (written programme)';
+          serviceFirst.textContent = 'Electrical repairs (written price)';
         }
       }
     }
@@ -85,9 +85,9 @@
     /* mode: draft | updated */
     if (!barSub) return;
     if (mode === 'updated') {
-      barSub.textContent = 'Draft for Jose at Salinas Electric. Claim it, preview the rest of the journey, or request a change.';
+      barSub.textContent = 'Draft for Jose at Jose Oscar Salinas Jr. Claim it, preview the rest of the journey, or request a change.';
     } else {
-      barSub.textContent = 'Draft for Jose Oscar Salinas Jr at Salinas Electric. Claim it, preview the rest of the journey, or request a change.';
+      barSub.textContent = 'Draft for Jose at Jose Oscar Salinas Jr. Claim it, preview the rest of the journey, or request a change.';
     }
   }
 
@@ -158,7 +158,7 @@
       var delay = 2500 + Math.floor(Math.random() * 1500);
       runSpinner(
         'Working on updates to your site…',
-        'Updating the draft for Salinas Electric. Hang tight.',
+        'Updating the draft for Jose Oscar Salinas Jr. Hang tight.',
         delay,
         function () {
           var editId = applyNextEdit();

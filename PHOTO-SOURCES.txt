@@ -1,10 +1,20 @@
-PHOTO SOURCES — hs-016-salinas Salinas Electric (Wave 4 2026-09-19 PT)
-Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+PHOTO SOURCES · hs-016-salinas Jose Oscar Salinas Jr (CR 2026-09-25b PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — residential electrical panel / breaker work (verified)
-services-trade.jpg — panel services (verified)
-job041-* — panel B/A typical (verified)
-job-elec-* — outdoor enclosure service set (verified)
-job052-* — circuit/tools typical (verified)
-people-* — tools/toolbox/crew — NOT owner face
-coverage-house.jpg — OC-style residential exterior
+hero-site.jpg <- wave11/elec-meter-cabinet.jpg : meter and breaker cabinet (Flickr PDM 49514987902)
+services-trade.jpg <- wave11/elec-wires-wallbox.jpg : wires pulled through a wall opening (StockSnap CC0 NTBTAJYIOK)
+people-crew.jpg <- wave11/tools-ratchet.jpg : ratchet sockets close-up (StockSnap CC0 4RHOB6RC3S)
+people-marek.jpg <- wave11/elec-breakers-row.jpg : row of breakers with wiring (StockSnap CC0 6Y6VEZPDC1)
+people-tom.jpg <- cr0925/elec-fan-lit.jpg : Ceiling fan light (rawpixel CC0 https://www.rawpixel.com/image/6039706/photo-image-background-texture-light)
+coverage-house.jpg <- wave11/house-dusk.jpg : two-story suburban home at dusk (StockSnap CC0 LJ515CPAKI)
+elec-rough-box.jpg <- cr0925/elec-rough-box.jpg : 20220129-RD-LSC-0065 (flickr PDM https://www.flickr.com/photos/41284017@N08/51849999359)
+elec-pendant-cage.jpg <- cr0925/elec-pendant-cage.jpg : A black metal pendant light fixture with a round cage design hangs from the ceil (wordpress CC0 https://wordpress.org/photos/photo/1386901ded/)
+elec-terminals.jpg <- wave11/elec-terminals.jpg : terminal blocks and wiring (rawpixel CC0 5904900)
+elec-breakers-probe.jpg <- wave11/elec-breakers-probe.jpg : breaker panel tested with a probe (StockSnap CC0 81EG7NOR4G)
+elec-panel-back.jpg <- wave11/elec-panel-back.jpg : electrician at an open breaker panel, seen from behind, no face (StockSnap CC0 3A5FXM89OG)
+elec-breakers-row.jpg <- wave11/elec-breakers-row.jpg : row of breakers with wiring (StockSnap CC0 6Y6VEZPDC1)
+
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: salinaselectric.com is registered to someone else, dropped from ideas. No license number on page.
