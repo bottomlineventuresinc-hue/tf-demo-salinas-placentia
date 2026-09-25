@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical and electrical signs. Across Placentia and Orange County. Jose looks at the job first and puts the price in writing.';
+            'Residential electrical and electrical signs in Placentia. Jose looks at the job first and puts the price in writing.';
         }
       }
     },
